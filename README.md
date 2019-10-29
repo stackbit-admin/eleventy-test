@@ -1,5 +1,5 @@
 # Eleventy Stackbit Boilerplate
-
+ 
 ## What is it?
 
 A simple template for building a fast, static website using the [Eleventy](https://www.11ty.io/) static site generator, with your headless CMS of choice, on [Stackbit](https://www.stackbit.com) in a couple of clicks.
@@ -24,7 +24,7 @@ Based on the [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/ele
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/eleventy-stackbit-boilerplate)
 
 Clicking the button above will start the Stackbit project creation wizard with this theme and Eleventy pre-selected as your chosen site generator. Simple pick your preferred CMS. This is powered by a single config file, [stackbit.yaml](https://docs.stackbit.com/uniform/stackbit-yaml/), which defines a [Uniform theme model](https://docs.stackbit.com/uniform/) and enables integration with CMS like Contentful, DatoCMS, Forestry, NetlifyCMS, etc.
-
+1
 ## Local development
 
 ### 1. Clone this repository:
